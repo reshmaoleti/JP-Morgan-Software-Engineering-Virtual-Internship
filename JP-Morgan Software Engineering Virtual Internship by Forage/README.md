@@ -16,7 +16,7 @@ This repository contains all the submitted patch files of the various tasks assi
 - `TypeScript`
 - `Web Applications`
 
-#### 3. Display data visually for traders [Click here to see Task-3](https://github.com/reshmaoleti/JP-Morgan Software Engineering Virtual Internship)
+#### 3. Display data visually for traders [Click here to see Task-3](https://github.com/reshmaoleti/JP-Morgan-Software-Engineering-Virtual-Internship)
 - Use Perspective to create the chart for the trader's dashboard  
 - `Technical Communications` 
 - `Financial Analysis`
