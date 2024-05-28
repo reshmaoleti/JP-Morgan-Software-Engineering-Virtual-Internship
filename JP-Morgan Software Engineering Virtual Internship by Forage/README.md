@@ -28,4 +28,6 @@ This repository contains all the submitted patch files of the various tasks assi
 #### My Certificate of Completion
 🏆 [Certificate Link](https://github.com/reshmaoleti/JP-Morgan-Software-Engineering-Virtual-Internship/blob/main/JP-Morgan%20Software%20Engineering%20Virtual%20Internship%20by%20Forage/completion%20certificate.pdf)
 
+!https://github.com/reshmaoleti/JP-Morgan-Software-Engineering-Virtual-Internship/blob/main/jp%20morgan%20certificate.png
+
 
