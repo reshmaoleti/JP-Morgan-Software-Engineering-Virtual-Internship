@@ -1,4 +1,4 @@
-# JPMorgan-Chase-Virtual-Internship
+# JPMorgan-Chase Skill Based Job Simulation & Virtual Internship
 This repository contains all the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
 
 ---
